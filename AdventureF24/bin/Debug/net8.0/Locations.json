@@ -1,0 +1,56 @@
+{
+  "Locations": [
+    {
+      "Name": "Beach",
+      "Description": "A beautiful rocky beach, it's a little to cold to swim, a smell of musty seaweed is fairly strong, just enough to bother you. \n There seems to be tide pools to the east, and a cave to the north.",
+      "Connections": {
+        "north": "Cave Entrance",
+        "east": "Tide Pools",
+        "south": "Entrance Hall"
+      }
+    },
+    {
+      "Name": "Entrance Hall",
+      "Description": "A grand hall. Doors lead north and east.",
+      "Connections": {
+      }
+    },
+    {
+      "Name": "Tide Pools",
+      "Description": "The tide is low, you can see several pools that could inhabit life, but they seem to all be empty, there seems to be something poking out of the sand, a crowbar maybe? \n You can walk west back to the main beach.",
+      "Connections": {
+        "west": "Beach"
+      }
+    },
+    {
+      "Name": "Cave Entrance",
+      "Description": "You enter a dark, dingy cave, you get a feeling of unease, maybe you should turn back. \n There is a small opening you could barely squeeze into to the north, or you could turn back to the south.",
+      "Connections": {
+        "north": "Small Opening",
+        "south": "Beach"
+      }
+    },
+    {
+      "Name": "Small Opening",
+      "Description": "You squeeze through the small opening, the sharp rocks from the wall stab you and latch on to your clothes. \n You feel your way through the darkness and see a small glimmer of light to the east. Or you could find a way to squeeze back out south.",
+      "Connections": {
+        "east": "Hole",
+        "south": "Cave Entrance"
+      }
+    },
+    {
+      "Name": "Hole",
+      "Description": "There is a large rock covering what seems to be a hole in the ground. The rock is far to heavy to just life up, if only you had a tool to pry a gap. \n It look like the hole leads south (down). Or you could go back west.",
+      "Connections": {
+        "south": "Cavern",
+        "west": "Small Opening"
+      }
+    },
+    {
+      "Name": "Cavern",
+      "Description": "You find a way to manage prying the rock off of the hole, a dark feeling hits you when you uncover the hole. \n You drop down into the cavern, it smells almost like sulfur mixed with blood. A strange noise echoes through the cave system, there is no way back, only forward. \n I don't think we are alone",
+      "Connections": {}
+    }
+  ],
+  "StartLocation": "Beach"
+}

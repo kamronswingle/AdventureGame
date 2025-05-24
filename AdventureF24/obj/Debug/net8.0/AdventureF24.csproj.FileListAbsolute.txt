@@ -1,0 +1,34 @@
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/bin/Debug/net8.0/AdventureF24
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/bin/Debug/net8.0/AdventureF24.deps.json
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/bin/Debug/net8.0/AdventureF24.runtimeconfig.json
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/bin/Debug/net8.0/AdventureF24.dll
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/bin/Debug/net8.0/AdventureF24.pdb
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/AdventureF24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/AdventureF24.AssemblyInfoInputs.cache
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/AdventureF24.AssemblyInfo.cs
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/AdventureF24.csproj.CoreCompileInputs.cache
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/AdventureF24.sourcelink.json
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/AdventureF24.dll
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/refint/AdventureF24.dll
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/AdventureF24.pdb
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/AdventureF24.genruntimeconfig.cache
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/obj/Debug/net8.0/ref/AdventureF24.dll
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/bin/Debug/net8.0/Items.json
+/Users/jonhumphreys/Documents/Rider Projects/AdventureF24/AdventureF24/bin/Debug/net8.0/Locations.json
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\bin\Debug\net8.0\Items.json
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\bin\Debug\net8.0\Locations.json
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\bin\Debug\net8.0\AdventureF24.exe
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\bin\Debug\net8.0\AdventureF24.deps.json
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\bin\Debug\net8.0\AdventureF24.runtimeconfig.json
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\bin\Debug\net8.0\AdventureF24.dll
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\bin\Debug\net8.0\AdventureF24.pdb
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\AdventureF24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\AdventureF24.AssemblyInfoInputs.cache
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\AdventureF24.AssemblyInfo.cs
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\AdventureF24.csproj.CoreCompileInputs.cache
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\AdventureF24.sourcelink.json
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\AdventureF24.dll
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\refint\AdventureF24.dll
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\AdventureF24.pdb
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\AdventureF24.genruntimeconfig.cache
+C:\Users\kamsw\RiderProjects\AdventureF24\AdventureF24\obj\Debug\net8.0\ref\AdventureF24.dll
